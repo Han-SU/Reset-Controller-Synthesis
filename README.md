@@ -1,4 +1,4 @@
-# Read me
+# README
 
 - The algorithms are developed based on the sum-of-squares module in **YALMP** and the semi-definite programming solver **MOSEK**. ***You need to include these tools in the root path of your Matlab before***.
 
